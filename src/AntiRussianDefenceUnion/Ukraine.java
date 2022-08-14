@@ -1,7 +1,7 @@
 package AntiRussianDefenceUnion;
 
 public class Ukraine {
-  public static void main(String[] args) {
+  public void UkraineRoleInARDU() {
     System.out.println("Ukraine is the founder of the ARDU");
   }
 }
