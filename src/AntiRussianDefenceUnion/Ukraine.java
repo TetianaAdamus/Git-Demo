@@ -3,6 +3,8 @@ package AntiRussianDefenceUnion;
 public class Ukraine extends UnionCountries{
 
   String countryName = "Ukraine";
+  String justToTest;
+
 
   public void UkraineRoleInARDU() {
     System.out.println("Ukraine is the founder of the ARDU");
