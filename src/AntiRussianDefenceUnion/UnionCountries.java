@@ -1,7 +1,6 @@
 package AntiRussianDefenceUnion;
 
-public class UnionCountries implements RussianSpy{
-
+public abstract class UnionCountries implements RussianSpy{
     String countryName;
 
     @Override
@@ -14,4 +13,5 @@ public class UnionCountries implements RussianSpy{
         System.out.println("There are no spies in the "+countryName);
 
     }
+
 }
